@@ -29,14 +29,7 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/diazms04">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diazms04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diazms04&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
 <div id="user-content-toc">
@@ -63,6 +56,16 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/martindiazs/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
+</p>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+<br>
+<p align="center">
+<a href="https://github.com/diazms04">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diazms04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diazms04&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 

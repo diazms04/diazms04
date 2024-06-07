@@ -8,6 +8,24 @@
 </div>
 
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About Me</h2></summary>
+  </ul>
+</div>
+
+
+- 🔭 I’m currently working on **React, Express, Nodejs, MongoDB, Azure**
+
+- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+
+- 💬 Ask me about **React, JavaScript, Node.js, mongoDB, Python**
+
+- 📫 Feel free to reach me out **martind.diazsuarez@gmail.com**
+
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -38,7 +56,7 @@
   </ul>
 </div>
 
-<!--icons and links-->
+
 <p align="center">
 <a href="https://www.linkedin.com/in/martindiazs/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
 </p>

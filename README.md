@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-- 💬 Ask me about **React, JavaScript, Node.js, mongoDB, Python**
+- 💬 Ask me about **React, JavaScript, Node.js, mongoDB, Python, PHP, Laravel**
 
 - 📫 Feel free to reach me out **martind.diazsuarez@gmail.com**
 

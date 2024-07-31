@@ -2,11 +2,6 @@
 <h1 align="center">Hi, I am <a href="https://aristi.dev">Martín Díaz</a> 👋</h1>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <div id="user-content-toc">
   <ul align="center">

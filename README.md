@@ -18,9 +18,7 @@
 
 - 🔭 I’m currently working on **React, Express, Nodejs, MongoDB, Azure**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **React, JavaScript, Node.js, mongoDB, Python, PHP, Laravel**
+- 💬 Ask me about **React, JavaScript, Node.js, mongoDB, Python, PostgreSQL**
 
 - 📫 Feel free to reach me out **martind.diazsuarez@gmail.com**
 

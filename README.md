@@ -21,9 +21,11 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 👨‍💻 Full Stack Developer con experiencia construyendo aplicaciones web completas y escalables usando tecnologías como React, Node.js, Express, MongoDB y NestJS.
+- ⚙️ He trabajado con microservicios, integración de APIs REST y GraphQL, despliegue en la nube (AWS), contenedores con Docker y autenticación segura.
+- 💳 También he integrado servicios como Stripe y Google APIs para automatizar procesos y mejorar la experiencia del usuario.
+- 🚀 Me apasiona crear soluciones útiles, enfocadas en el usuario, aplicando buenas prácticas de desarrollo y manteniéndome en constante aprendizaje.
+
 
 ## 🛠 &nbsp;Tech Stack
 

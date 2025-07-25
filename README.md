@@ -59,6 +59,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 ## 📊 Profile Statistics

@@ -21,10 +21,10 @@
 
 ---
 
-- 👨‍💻 Full Stack Developer con experiencia construyendo aplicaciones web completas y escalables usando tecnologías como React, Node.js, Express, MongoDB y NestJS.
-- ⚙️ He trabajado con microservicios, integración de APIs REST y GraphQL, despliegue en la nube (AWS), contenedores con Docker y autenticación segura.
-- 💳 También he integrado servicios como Stripe y Google APIs para automatizar procesos y mejorar la experiencia del usuario.
-- 🚀 Me apasiona crear soluciones útiles, enfocadas en el usuario, aplicando buenas prácticas de desarrollo y manteniéndome en constante aprendizaje.
+- 👨‍💻 Full Stack Developer with experience building complete and scalable web applications using technologies like React, Node.js, Express, MongoDB, and NestJS.
+- ⚙️ I have worked with microservices, API integration (REST and GraphQL), cloud deployment (AWS), containerization with Docker, and secure authentication.
+- 💳 I’ve also integrated services like Stripe and Google APIs to automate processes and enhance the user experience.
+- 🚀 I'm passionate about creating user-focused, practical solutions by applying development best practices and continuously learning.
 
 
 ## 🛠 &nbsp;Tech Stack
